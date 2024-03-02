@@ -31,15 +31,6 @@ Technologies Used
 
     Responsive Design: Ensuring a seamless experience across various devices.
 
-Contribution Guidelines
-
-We welcome contributions! If you'd like to enhance existing features or add new functionalities, please follow these steps:
-
-    Fork the repository.
-    Create a new branch for your feature: git checkout -b feature-name.
-    Commit your changes: git commit -m 'Add new feature'.
-    Push to the branch: git push origin feature-name.
-    Submit a pull request.
 
 Issues and Bug Reports
 
